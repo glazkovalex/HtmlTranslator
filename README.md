@@ -1,2 +1,2 @@
-# HtmlTranslotor
+# HtmlTranslator
 Для перевода статического Html размещаемого в одноименной папке.
